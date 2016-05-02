@@ -1,5 +1,5 @@
 {
-  "name": "webpack_es6_karma",
+  "name": "vuejs_es6_karma_eslint",
   "version": "0.1.0",
   "description": "just want to test the webpack and es6 and karma",
   "scripts": {

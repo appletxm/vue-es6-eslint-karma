@@ -12,10 +12,9 @@ module.exports = function (config) {
 
 		// list of files / patterns to load in the browser
 		files: [
-			//'node_modules/vue/dist/vue.js',
-			//'src/app/**/*.js',
-			//'test/unit/**/*-spec.js'
-			{ pattern: './test/unit/test-context.js'}
+			'node_modules/vue/dist/vue.js',
+			'src/app/**/*.js',
+			'test/**/*-spec.js'
 		],
 
 
