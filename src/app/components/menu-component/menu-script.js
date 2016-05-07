@@ -1,6 +1,6 @@
-import 'components/menu-component/menu-style';
-import template from 'components/menu-component/menu-template';
-import { menuData } from 'models/menu-model';
+import './menu-style.less';
+import template from './menu-template.html';
+import { menuData } from '../../models/menu-model';
 
 let menuComponent = {
 	template: template,

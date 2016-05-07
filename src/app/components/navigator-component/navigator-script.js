@@ -1,6 +1,6 @@
-import 'components/navigator-component/naviagtor-style';
-import template from 'components/navigator-component/navigator-template';
-import {navigatorData, getCurrentNavigatorCell} from 'models/navigator-model';
+import './naviagtor-style.less';
+import template from './navigator-template.html';
+import {navigatorData, getCurrentNavigatorCell} from '../../models/navigator-model';
 
 let navigatorComponent = {
 	template: template,

@@ -1,5 +1,5 @@
-import Vue from 'nodeModels/vue/dist/vue';
-import { appWrapView } from 'views/app-wrap-view/wrap-script';
+import Vue from '../../node_modules/vue/dist/vue';
+import { appWrapView } from './views/app-wrap-view/wrap-script';
 
 let vue = new Vue({
 	data: {
